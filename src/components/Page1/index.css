@@ -1,0 +1,12 @@
+.page1 {
+    background-color: #402E2A;
+    height: 1080px;
+    width: 1920px;
+    padding: 178.5px 80px 42px 80px;
+}
+
+.yammer-header-logo {
+    background-image: url("/img/IYWIY-notext.png");
+    width: 624px;
+    height: 723px;
+}
