@@ -1,5 +1,5 @@
 import React from 'react';
-import Page1 from "./components/Page1";
+import Page1 from "./components/Page1/index.js";
 
 const App: React.FC = () => {
   return (

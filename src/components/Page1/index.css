@@ -1,12 +1,91 @@
 .page1 {
     background-color: #402E2A;
-    height: 1080px;
-    width: 1920px;
-    padding: 178.5px 80px 42px 80px;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.column1 {
+    position: relative;
+    width: 624px;
+    height: 723px;
+    margin-right: 40px;
 }
 
 .yammer-header-logo {
     background-image: url("/img/IYWIY-notext.png");
-    width: 624px;
-    height: 723px;
+    margin-right: 125px;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.header-text {
+    font-family: big-caslon-fb,serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: left;
+    font-size: 100px;
+    letter-spacing: 0;
+    color: #8F9491;
+    opacity: 1;
+    margin: 0;
+}
+
+.sub-head-text {
+    text-align: left;
+    font-family: mrs-eaves-xl-serif-narrow, serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    letter-spacing: 0;
+    color: #8F9491;
+    opacity: 1;
+    margin: 0;
+}
+
+.social-icons {
+    display: flex;
+    margin: 20px 0;
+    position: relative;
+}
+
+.github-icon {
+    background-image: url("/img/github-logo.svg");
+    width: 50px;
+    height: 48px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.social-icons-divider {
+    width: 3px;
+    background-color: grey;
+    margin: 7.5px 30px 0;
+    height: 35px;
+    border-radius: 50px;
+}
+
+.email-icon {
+    background-image: url("/img/email-icon.svg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 3.5px;
+    width: 63px;
+    height: 41.5px;
+
+}
+
+.middle-divider {
+    width: 50px;
+    height: 3px;
+    border-radius: 50px;
+    margin: 40px 0;
+    background: grey;
 }
