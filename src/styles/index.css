@@ -1,4 +1,29 @@
+:root {
+    --light: 80;
+    /* the threshold at which colors are considered "light." Range: integers from 0 to 100,
+  recommended 50 - 70 */
+    --threshold: 60;
+}
+
 body {
     max-width: 1240px;
     margin: auto;
+    font-family: "Halyard Display", --apple-system-font, "Arial", sans-serif
+}
+
+
+a {
+    color: #1890ff;
+    text-decoration-line: none;
+    text-decoration-style: solid;
+    cursor: pointer;
+    transition-delay: 0s;
+    transition-duration: 0.3s;
+    transition-property: color;
+    transition-timing-function: ease;
+
+}
+
+a:hover {
+    color: #40a9ff;
 }

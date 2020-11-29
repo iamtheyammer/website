@@ -1,0 +1,37 @@
+[
+  {
+    "title": "CanvasCBL",
+    "subtitle": "A custom grade calculator for a custom grading system.",
+    "selfTitle": "Founder & Developer",
+    "timePeriod": "2019-2020",
+    "link": {
+      "display": "canvascbl.com",
+      "url": "https://canvascbl.com/?utm_source=sam_website"
+    },
+    "image": {
+      "height": "auto",
+      "width": "auto",
+      "url": "https://cdn.iamtheyammer.com/website/canvascbl-dashboard.png"
+    },
+    "tags": ["Golang", "React", "Redux", "PostgreSQL"]
+  },
+  {
+    "title": "ChromebookGUI",
+    "subtitle": "Open-source app that makes it way easier for IT to manage Chromebooks.",
+    "selfTitle": "Founder & Developer",
+    "timePeriod": "2018–",
+    "link": {
+      "display": "yammer.me/cbgui",
+      "url": "https://yammer.me/cbgui"
+    },
+    "image": {
+      "height": "auto",
+      "width": "auto",
+      "url": "https://cdn.iamtheyammer.com/website/chromebookgui-screenshot.png"
+    },
+    "tags": ["C#", ".NET", "Windows", "Google Admin Console", {
+      "display": "GAM",
+      "url": "https://github.com/jay0lee/GAM"
+    }]
+  }
+]

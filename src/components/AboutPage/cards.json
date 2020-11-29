@@ -1,0 +1,42 @@
+{
+  "frontend": [
+    {
+      "title": "JavaScript",
+      "imgSrc": "https://cdn.iamtheyammer.com/website/js-logo.svg",
+      "topColor": "#eae2ae",
+      "bottomColor": "#625920"
+    },
+    {
+      "title": "React",
+      "imgSrc": "https://cdn.iamtheyammer.com/website/react-logo.svg",
+      "topColor": "#dbf7ff",
+      "bottomColor": "#327587"
+    },
+    {
+      "title": "Redux",
+      "imgSrc": "https://cdn.iamtheyammer.com/website/redux-logo.svg",
+      "topColor": "#ddc7ff",
+      "bottomColor": "#3b245f"
+    }
+  ],
+  "backend": [
+    {
+      "title": "Go",
+      "imgSrc": "https://cdn.iamtheyammer.com/website/go-logo.svg",
+      "topColor": "#bcf1ff",
+      "bottomColor": "#003c4b"
+    },
+    {
+      "title": "Node.js",
+      "imgSrc": "https://cdn.iamtheyammer.com/website/nodejs-logo.svg",
+      "topColor": "#cdf7c9",
+      "bottomColor": "#30492e"
+    },
+    {
+      "title": "PostgreSQL",
+      "imgSrc": "https://cdn.iamtheyammer.com/website/postgres-logo.svg",
+      "topColor": "#5eb7ff",
+      "bottomColor": "#0d1b26"
+    }
+  ]
+}
